@@ -39,7 +39,6 @@
 <img title="Jupyter" alt="R" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 <img title="Git" alt="R" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   
-  
 </div>
 
 

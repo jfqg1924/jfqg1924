@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I am Julian Quintero-Galvis
 
 <!--
 **jfqg1924/jfqg1924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Genomic populations
 - 🌱 I’m currently learning R Markdown and Python
-- 👯 I’m looking to collaborate on new tools of genomics 
+- 👯 I’m looking to collaborate on new tools of genomics
 
 -->

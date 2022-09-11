@@ -2,13 +2,13 @@
 
 - 🧬 I’m currently working on Genomic populations
 - 🌱 I’m currently learning R and Python
-- 🔬 I’m looking to collaborate on new tools of genomics
+- 🔬 I’m looking to collaborate to work genomics populations and bioinformatics 
 
 ### 📫 How to reach me?
 <div> 
 <div style="display: inline_block"><br>
   <a href="https://julianquinterog.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:julianquintero1924@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:julianquintero1924@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://twitter.com/Julian1924"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
  

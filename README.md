@@ -15,20 +15,30 @@
 </div>
 
 
-### 📫 Skills
+### 💻 Programming Languages
 
 
 </div>
 <div style="display: inline_block"><br>
   
 <img title="Ubuntu" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  
-  
-
-  
+<img title="R" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">  
+<img title="Python" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    
 </div>
 
 
-**Tools**
+### 🔧 Tools 
+
+</div>
+<div style="display: inline_block"><br>  
+<img title="R studio" alt="R" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+<img title="Visual Studio" alt="R" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img title="Conda" alt="R" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+<img title="Markdown" alt="R" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  
+  
+  
+</div>
 
 

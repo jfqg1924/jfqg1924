@@ -1,8 +1,8 @@
 ### Hi 👋 
 
 - 🧬 I’m currently working on Genomic populations
-- 🌱 I’m currently learning R and Python
-- 🔬 I’m looking to collaborate to work genomics populations and bioinformatics 
+- 🌱 I’m currently working R and Python
+- 🔬 I’m looking to collaborate to work genomics populations, SIG and bioinformatics 
 
 ### 📫 How to reach me?
 <div> 
